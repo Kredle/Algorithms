@@ -1,0 +1,6 @@
+Here you need to make your program print min distances from one point to all.
+My program lets you get min distance from one point to other. 
+Professor wanted a table, where you can see distances from one point to all points.
+So make sure you redo this.
+
+PS: just return array of min distances and make goodlooking table
